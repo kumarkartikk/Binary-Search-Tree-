@@ -1,2 +1,2 @@
 # Binary-Search-Tree-
-Binary Search Tree insert with Parent Pointer @hactoberfest 2021
+Binary Search Tree insert with Parent Pointer 
